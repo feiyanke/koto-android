@@ -1,2 +1,2 @@
 # koto
-Android Util Libraries for Kotlin
+koto library extension for android
