@@ -25,6 +25,5 @@ dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     compile "org.jetbrains.kotlin:kotlin-reflect:$kotlin_version"
     compile "org.jetbrains.anko:anko:$anko_version"
-    compile 'com.android.support:appcompat-v7:25.3.1'
     compile 'com.github.feiyanke:koto:0.1.3'
 }
